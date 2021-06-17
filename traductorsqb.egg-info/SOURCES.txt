@@ -1,0 +1,12 @@
+README.md
+setup.py
+traductorsqb/__init__.py
+traductorsqb/__main__.py
+traductorsqb.egg-info/PKG-INFO
+traductorsqb.egg-info/SOURCES.txt
+traductorsqb.egg-info/dependency_links.txt
+traductorsqb.egg-info/entry_points.txt
+traductorsqb.egg-info/requires.txt
+traductorsqb.egg-info/top_level.txt
+traductorsqb/matematicas/__init__.py
+traductorsqb/matematicas/basico.py
