@@ -1,13 +1,13 @@
 [tool.poetry]
 name = "traductorsqb"
-version = "0.0.2"
+version = "0.0.3"
 description = "Traductor de palabras"
 authors = ["Santiago Quiñones <lsquinones@gmail.com>"]
 keywords = ["traductor"]
 readme = "README.md"
 license = "MIT"
-homepage = "https://github.com/lsantiago/package_name"
-repository = "https://github.com/lsantiago/package_name"
+homepage = "https://github.com/PythonBasico-AA2021/traductorqcb"
+repository = "https://github.com/PythonBasico-AA2021/traductorqcb"
 include = [
     "LICENSE",
 ]
